@@ -1,6 +1,6 @@
 # Call Center Analysis - Excel
 
-### Link to [MY Linked In](https://www.linkedin.com/in/hakeem-data-analyst/)
+### Link to [MY LinkedIn](https://www.linkedin.com/in/hakeem-data-analyst/)
 ### Link to [Download The Dashboard file](https://docs.google.com/spreadsheets/d/1TshA46xfcr-gyRMP8Tm3jguSN5KfBQkd/export?format=xlsx) 
 ### Link to [Interactive Dashboard on novyPro](https://www.novypro.com/profile_about/ibrahim-saiied-1?Popup=memberProject&Data=1744451745063x789127784113938900)
 
@@ -52,14 +52,14 @@
 A mid-sized retail company was experiencing stagnant sales growth and needed visibility into their performance across different products, regions, and customer behaviors. Stakeholders lacked a consolidated view of critical KPIs and trends over time.
 
 ## 🎯 Objective
-Build an interactive dashboard that helps business decision-makers:
-Track overall sales performance and profitability
-Identify underperforming and overperforming categories and regions
-Understand the impact of different payment methods on revenue
-Compare metrics against the previous year using Time Intelligence
+> - Build an interactive dashboard that helps business decision-makers:
+> - Track overall sales performance and profitability
+> - Identify underperforming and overperforming categories and regions
+> - Understand the impact of different payment methods on revenue
+> - Compare metrics against the previous year using Time Intelligence
 
 ## Main 𝐊𝐏𝐈𝐬
-- **<ins>Service Level (%)</ins>**: (Target: > 91.5%) Percentage of calls answered within your target time (30s).
+- **<ins>Total Sales</ins>**: It is the sum of all Sales amount for .
 - **<ins>Answer Rate (%)</ins>**: (Target: > 95%) Percentage of calls answered vs. total calls received.
 - **<ins>Hold Time (%)</ins>**: (Target: < 10%) Percentage of time callers wait on hold from total in the call after answering. 
 - **<ins>First Call Resolution (FCR %)</ins>**: (Target: > 80%) Percentage of problems solved in the first call.
