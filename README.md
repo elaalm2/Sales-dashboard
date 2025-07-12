@@ -31,48 +31,32 @@
 **▼ 📑Dataset Files Explanation** [[Download]](https://raw.githubusercontent.com/ibrahim-saiied/Call_center/refs/heads/main/Data%20Set/Call%20Center%20(Dataset).rar)  
 
 
-1. **Fact_Call_Center Sheet**  
-   > - **<ins>Call ID</ins>**: Unique **ID** for each **Call**. 
-   > - **<ins>Agent</ins>**: Unique ID for each **Agent** working on the call.
-   > - **<ins>Date</ins>**: Date of receiving the call.
-   > - **<ins>Time</ins>**: Time of receiving the call.
-   > - **<ins>Topic</ins>**: Topic discussed on the call. Foreign Key for **Dim_Topic table**.
-   > - **<ins>Call Type</ins>**: Inbound or Outbound. Foreign Key for **Dim_CallType table**.
-   > - **<ins>Answered</ins>**: Indicates whether the call was answered or not.
-   > - **<ins>Resolved</ins>**:: Indicates whether the issue was resolved during the call.
-   > - **<ins>Abandoned</ins>**:: Indicates whether the caller abandoned the call before being attended.
-   > - **<ins>AnsweringTime</ins>**:: Time taken for an agent to answer the call after it enters the queue (from ringing to pickup).
-   > - **<ins>WaitTime</ins>**:: Total time the caller spent waiting in queue (includes IVR time, excludes ringing).
-   > - **<ins>AvgTalkDuration</ins>**:: Average duration of the conversation between agent and caller (excluding hold time).
-   > - **<ins>AvgHoldDuration</ins>**:: Average time the caller was put on hold during the call (may include multiple hold events).
-   > - **<ins>AfterCallWork</ins>**:: Time agent spent on post-call activities before becoming available for the next call.
-   > - **<ins>SatisfactionRating</ins>**:: Customer Satisfaction Score (CSAT), typically rated 1–5.
-   > - **<ins>QAScore</ins>**:: Internal Quality Assessment score based on criteria like script adherence and professionalism.
-   > - **<ins>FirstCall</ins>**:: Indicates if the issue was resolved during the first call (used to track First Call Resolution).
-   > - **<ins>FlaggedCall</ins>**:: Indicates if the call was flagged for review due to complaints, unusual behavior, or policy concerns.
-   > - **<ins>Escalated</ins>**:: Indicates if the call was escalated to a higher-level agent or supervisor.
-
-2. **Dim_Agent Sheet**  
-   > - **<ins>Agent ID</ins>**: Unique ID for each **Agent**.  
-   > - **<ins>First Name</ins>**: First Name of each **Agent**.
-   > - **<ins>Last Name</ins>**: Last Name of each **Agent**. 
-   > - **<ins>Ethnicity</ins>**: The self-reported ethnicity of the agent, used for diversity and inclusion reporting.
-   > - **<ins>Gender</ins>**: The gender of the agent (e.g., Male, Female).
-   > - **<ins>Team</ins>**: The team or department the agent belongs to.
-
-3. **Dim_Topic Sheet**
-   > - **<ins>CallType ID</ins>**: A unique identifier for the type of call. Used as a primary key to link with fact tables.
-   > - **<ins>CallType</ins>**: The category of the call (e.g., Inbound, Outbound).
+1. **Sales Dataset**  
+   > - **<ins>Order ID</ins>**: Unique **ID** for each **Order**. 
+   > - **<ins>Amount</ins>**: **Sales Amount or Revenue** for each order.
+   > - **<ins>Profit</ins>**: Profit from each order.
+   > - **<ins>Quantity</ins>**: Quantity sold of a specific product for each order.
+   > - **<ins>Category</ins>**: The Category of the product sold.
+   > - **<ins>Sub-Category</ins>**: The Sub-Category of the product sold.
+   > - **<ins>PaymentMode</ins>**: The Payment method for the order.
+   > - **<ins>Order Date</ins>**: The date when the order was placed.
+   > - **<ins>CustomerName</ins>**: The customer who placed the order.
+   > - **<ins>State</ins>**: The State from which the customer placed the order.
+   > - **<ins>City</ins>**: The City from which the customer placed the order.
 
 </details>
 
 <!-- ------------------------------------------------------------------------------------------- -->
 
-## Case Study
-NBE call center supports many customers across different regions and receives a high number of calls every day. lately, the company has received complaints about long waiting times and poor service, some customers have even stopped using the service because of these issues.
+## 🗂️ Case Study
+A mid-sized retail company was experiencing stagnant sales growth and needed visibility into their performance across different products, regions, and customer behaviors. Stakeholders lacked a consolidated view of critical KPIs and trends over time.
 
-Before growing the business further, the management team asked for an Excel dashboard to track important performance indicators like Answer Rate, Service Level, First Call Resolution (FCR), Customer Satisfaction (CSAT), and peak call times.
-The main goal is to understand where the problems are, improve team scheduling, and provide better service using clear and simple data.
+## 🎯 Objective
+Build an interactive dashboard that helps business decision-makers:
+Track overall sales performance and profitability
+Identify underperforming and overperforming categories and regions
+Understand the impact of different payment methods on revenue
+Compare metrics against the previous year using Time Intelligence
 
 ## Main 𝐊𝐏𝐈𝐬
 - **<ins>Service Level (%)</ins>**: (Target: > 91.5%) Percentage of calls answered within your target time (30s).
