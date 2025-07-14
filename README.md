@@ -2,7 +2,6 @@
 
 ### Link to [MY LinkedIn](https://www.linkedin.com/in/hakeem-data-analyst/)
 ### Link to [Download The Dashboard file](https://docs.google.com/spreadsheets/d/1TshA46xfcr-gyRMP8Tm3jguSN5KfBQkd/export?format=xlsx) 
-### Link to [Interactive Dashboard on novyPro](https://www.novypro.com/profile_about/ibrahim-saiied-1?Popup=memberProject&Data=1744451745063x789127784113938900)
 
 <br>
 <div align="center">
@@ -59,19 +58,19 @@ A mid-sized retail company was experiencing stagnant sales growth and needed vis
 > - Compare metrics against the previous year using Time Intelligence
 
 ## Main 𝐊𝐏𝐈𝐬
-- **<ins>Total Sales</ins>**: It is the sum of all Sales amount for .
-- **<ins>Answer Rate (%)</ins>**: (Target: > 95%) Percentage of calls answered vs. total calls received.
-- **<ins>Hold Time (%)</ins>**: (Target: < 10%) Percentage of time callers wait on hold from total in the call after answering. 
-- **<ins>First Call Resolution (FCR %)</ins>**: (Target: > 80%) Percentage of problems solved in the first call.
-- **<ins>Customer Satisfaction (CSAT %)</ins>**: (Target: > 4.4) Rating of Satisfaction customers (rated 1-5 stars).
-- **<ins>Average Handle Time (AHT)</ins>**: (Target: < 10:30) Average time agents spend per call without waiting time.
+- **<ins>Total Sales</ins>**: It is the sum of all Sales amounts for orders sold.
+- **<ins>Total profit</ins>**: It is the sum of all Profit gained for orders sold.
+- **<ins>Total Orders</ins>**: It is the total number of orders placed. 
+- **<ins>AVG Order Value</ins>**: It is the average amount paid by a customer to place a single order.
+- **<ins>Profit Margin %</ins>**: It is the percentage of revenue that remains as profit after all expenses are deducted.
 
 ## Process
-1) Explored and validated the call center data
-2) Imported and cleaned data using Power Query with helper columns
-3) Built a data model
-4) Created key measures using DAX (e.g., SL, FCR, CSAT)
-5) Designed an interactive Excel dashboard to visualize insights
+1) Imported, explored and validated the data
+2) Cleaned the data using Power Query
+3) Created calculated Date table
+4) Built a data model
+5) Created key measures using DAX 
+6) Designed an interactive and insightful dashboard
 
 ## Measures (Dax)
 ;
