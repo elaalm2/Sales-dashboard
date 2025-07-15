@@ -83,27 +83,37 @@ A mid-sized retail company was experiencing stagnant sales growth and needed vis
 
 ![Image](https://github.com/user-attachments/assets/4fc9184b-9945-4585-8dd2-203fbc444f54)
 
-[![Watch the demo](https://github.com/user-attachments/assets/431f9b71-3049-41f5-8629-00b091f535a4)
+[![Watch the demo](https://github.com/user-attachments/assets/431f9b71-3049-41f5-8629-00b091f535a4)](https://github.com/user-attachments/assets/431f9b71-3049-41f5-8629-00b091f535a4)
 
 
-## Important Insights
- 1) **Service Level is On Target**
-    - At 92.0%, we’re meeting our goal (91.5%), showing good responsiveness, but we need to keep monitoring performance on certain days.
- 3) **Hold Time** 
-    - Current hold rate is 10.8%, exceeding the 10% target. Process optimization may help reduce this
- 3) **First Call Resolution (FCR)**
-    - We achieved 92.1% FCR, which is well above the target (80%). This means most customer issues are solved on the first call a strong sign of quality service.
-4) **Answer Rate Needs Improvement**
-    - Current rate is 93.2%, slightly below the 95% target. This means we need to improve staffing or efficiency during busy hours.
- 5) **Peak Hour is 3–4 PM**
-    - The highest call volume occurs between 3:00 and 4:00 PM with over 2,450 calls. This is a key time to ensure strong agent coverage.
- 6) **Sunday & Saturday weekends volume & performance**
-    - Saturday and Sunday show 100% service level, mainly due to very low call volume and sufficient staffing.
- 7) **Customer Inquiries & Resolution Rate**
-    - The resolution rate is highest for Tech Support (80.2%) and slightly lower for Billing and Complaints (78–79%).
- 8) **Some agents rated below target**
-    - A few agents didn’t meet the target in several KPIs like rating, AHT, and hold %. This shows they may need more training or support to improve their performance.
-
+## 📌 Important Insights
+ 1) **Total Sales**
+    - In 2025, total sales dropped significantly, which also impacted profit and the number of total orders.
+ 3) **Average Order Value** 
+    - The average order value increased compared to the previous year, indicating that while fewer purchases were made, customers spent more per transaction.
+ 3) **Profit Margin %**
+    - Despite the drop in overall sales, the profit margin percentage improved, suggesting better cost efficiency or higher-margin product focus.
+4) **Sales by City and State**
+    - Top-performing city: New York
+    - Lowest-performing city: Chicago
+    - Top-performing state: Ohio
+    - Lowest-performing state: Texas
+ 5) **Sales by Sub-Category**
+    - Highest sales: Markers
+    - Lowest sales: Bookcases
+## ✅ Recommendations:
+1) **Investigate the Sales Decline**:  
+ Conduct a root-cause analysis to understand why sales dropped in 2025. Possible factors to explore include:
+ - New competitors entering the market
+ - Customer service or staff performance issues
+ - Product quality concerns
+ - Weaknesses in post-sale services or support
+2) **Compare Branch Performance Across Cities**:  
+ Analyze differences between high-performing and low-performing cities. Factors to examine:
+- Branch operations and staffing
+- Marketing efforts and local campaigns
+- Customer demographics and behavior
+- Product availability or regional demand
 
 
 
