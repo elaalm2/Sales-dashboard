@@ -1,7 +1,7 @@
 # Call Center Analysis - Excel
 
 ### Link to [MY LinkedIn](https://www.linkedin.com/in/hakeem-data-analyst/)
-### Link to [Download The Dashboard file](https://docs.google.com/spreadsheets/d/1TshA46xfcr-gyRMP8Tm3jguSN5KfBQkd/export?format=xlsx) 
+### Link to [Download The Dashboard file](https://drive.google.com/file/d/1up5SMl_igSrEHbTZj5i4uJfCpOKDiIWQ/view?usp=sharing) 
 
 <br>
 <div align="center">
@@ -25,9 +25,9 @@
    <summary><strong>📂 Data Sources (click)</strong></summary>
 
 ### **Data Sources**  
-> The primary dataset used for this analysis is the **"Fact_Call_Center"** Sheet containing detailed information about each Call.  
+> The primary dataset used for this analysis is the **"Sales Dataset CSV File"**.  
 
-**▼ 📑Dataset Files Explanation** [[Download]](https://raw.githubusercontent.com/ibrahim-saiied/Call_center/refs/heads/main/Data%20Set/Call%20Center%20(Dataset).rar)  
+**▼ 📑Dataset Files Explanation** [[Download]](https://drive.google.com/file/d/175ejh6BxNl3kizRY9BGnH7_LAjzyjE9v/view?usp=sharing)  
 
 
 1. **Sales Dataset**  
