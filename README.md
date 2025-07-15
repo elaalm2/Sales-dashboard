@@ -76,7 +76,7 @@ A mid-sized retail company was experiencing stagnant sales growth and needed vis
 <img width="226" height="326" alt="Image" src="https://github.com/user-attachments/assets/d42a950e-5c43-4101-8cff-bd0f6a079f0b" />
 
 ## Data Model
-<img width="226" height="326" alt="Image" src="https://github.com/user-attachments/assets/dbe7ea42-5258-4807-a5c7-41040d5657c7" />
+<img width="626" height="323" alt="Image" src="https://github.com/user-attachments/assets/1bb193ce-c53c-48f3-90ac-42d776f89fa5" />
 
 ## Dashboard
 <img width="1335" height="757" alt="Image" src="https://github.com/user-attachments/assets/850d1af0-aef4-4535-8029-aab4807e7b03" />
