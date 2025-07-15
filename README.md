@@ -73,19 +73,17 @@ A mid-sized retail company was experiencing stagnant sales growth and needed vis
 6) Designed an interactive and insightful dashboard
 
 ## Measures (Dax)
-;
-<img src="https://github.com/user-attachments/assets/62bacb17-9e9d-4412-82b7-8179673d61fc" alt="image" width="320" height="550" style="display: block; margin: 0;">
+<img width="226" height="326" alt="Image" src="https://github.com/user-attachments/assets/d42a950e-5c43-4101-8cff-bd0f6a079f0b" />
 
 ## Data Model
-![image](https://github.com/user-attachments/assets/f7dbc60e-06e8-4cea-a919-f0636b2e7f4a)
+<img width="226" height="326" alt="Image" src="https://github.com/user-attachments/assets/dbe7ea42-5258-4807-a5c7-41040d5657c7" />
 
 ## Dashboard
-<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/dc81c929-aa05-4aab-b525-44d5aa7c4bbd" />
-<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/1977bd4a-6ebb-496b-bad8-5eeea6e89b35" />
-<img width="1500" alt="Group 3" src="https://github.com/user-attachments/assets/0022b20a-be22-4d65-94f3-a061e77ecfe8" />
+<img width="1335" height="757" alt="Image" src="https://github.com/user-attachments/assets/850d1af0-aef4-4535-8029-aab4807e7b03" />
 
+![Image](https://github.com/user-attachments/assets/4fc9184b-9945-4585-8dd2-203fbc444f54)
 
-[![Watch the demo](https://github.com/user-attachments/assets/2509495d-7fbf-4781-88c7-67f0db18b34f)](https://github.com/user-attachments/assets/eeb2cb96-1bd4-416c-8281-7c89d84cdc17)
+[![Watch the demo](https://github.com/user-attachments/assets/431f9b71-3049-41f5-8629-00b091f535a4)
 
 
 ## Important Insights
