@@ -51,7 +51,7 @@
 A mid-sized retail company was experiencing stagnant sales growth and needed visibility into their performance across different products, regions, and customer behaviors. Stakeholders lacked a consolidated view of critical KPIs and trends over time.
 
 ## 🎯 Objective
-> - Build an interactive dashboard that helps business decision-makers:
+Build an interactive dashboard that helps business decision-makers:
 > - Track overall sales performance and profitability
 > - Identify underperforming and overperforming categories and regions
 > - Understand the impact of different payment methods on revenue
